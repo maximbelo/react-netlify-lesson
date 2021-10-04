@@ -10,6 +10,6 @@ p {
   color: #ff0000;
 }
 
-p:nth-of-type(2) {
-  background-color: yellow;
+p {
+  font-size: 45px;
 }
